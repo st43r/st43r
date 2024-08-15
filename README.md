@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergey Protasov
 =======================================================================================================================================
 
-Software/ML engineer, drum player, basketball enjoyer.
-------------------------------------------------------
-
 I am VyatSU applied math and computer science student.</br>
 
 At the moment, working for LLC "Zentec" \[zentec.ru\] as a C++/Qt programmer.</br>
