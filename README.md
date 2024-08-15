@@ -11,7 +11,7 @@ Check my [speech at a conference](https://youtu.be/qmzw7XT6tKc) on this topic.</
 
 Also, I'm trying my best to dive into Mathematical Finances field, but it's quite challenging😁.
 
-* 📃  See my [resume](http://drive.google.com/file/d/1OQiO-vyKu_ourp3hvmuMOCUNtZ6Zmn3V/view?usp=sharing)
+* 📃  See my [resume](https://drive.google.com/file/d/17ladD9SH_iGnqa8hooH3uvWq41-rDmog/view?usp=sharing)
 * 🏆  See my [achievements](http://drive.google.com/file/d/1OQiO-vyKu_ourp3hvmuMOCUNtZ6Zmn3V/view?usp=sharing)
 * ✉️  You can contact me at [st43er@icloud.com](mailto:st43er@icloud.com)
 * 🧠  I'm learning Computer Vision, Embedded development, AlgoTrading
