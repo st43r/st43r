@@ -1,5 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergey Protasov
-=======================================================================================================================================
+<h1 align="center" class="heading-element" dir="auto">
+  Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Greeting GIF">, I'm Sergey Protasov
+</h1>
+
+<h3 align="center" class="heading-element" dir="auto">Software Engineer | ML Enthusiast | Math Aficionado</h3>
 
 I am VyatSU applied math and computer science student.</br>
 
