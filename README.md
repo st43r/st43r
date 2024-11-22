@@ -7,12 +7,11 @@
 I am VyatSU applied math and computer science student.</br>
 
 At the moment, working for LLC "Zentec" \[zentec.ru\] as a C++/Qt programmer.</br>
-Recently developed a feature to use Yandex Alice API in smart home systems and authorization feature in desktop software.</br>
 
 I am currently completing my research work on the topic “Algorithm for detecting and classifying potentially dangerous objects”.</br>
 Check my [speech at a conference](https://youtu.be/qmzw7XT6tKc) on this topic.</br>
 
-Also, I'm trying my best to dive into Mathematical Finances field, but it's quite challenging😁.
+Also, I'm trying my best to dive into Mathematical Finances field, but it's quite challenging :).
 
 * 📃  See my [resume](https://drive.google.com/file/d/17ladD9SH_iGnqa8hooH3uvWq41-rDmog/view?usp=sharing)
 * 🏆  See my [achievements](http://drive.google.com/file/d/1OQiO-vyKu_ourp3hvmuMOCUNtZ6Zmn3V/view?usp=sharing)
